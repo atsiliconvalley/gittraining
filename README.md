@@ -1,1 +1,1 @@
-# gittraining
+# gittraining基本的git命令##环境准备* Github账号* git* ssh-keygen##基本命令* git clone * git status* git add* git rm* git pull *git push* gitk* git branch##pull request* folk* git remote add* git remote -vv* create pull request
